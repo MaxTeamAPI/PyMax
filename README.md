@@ -6,17 +6,6 @@
     <strong>Python wrapper для API мессенджера Max</strong>
 </p>
 
-> [!CAUTION]
-> ## 📦 Проект в режиме read-only (архивируется)
-> Этот репозиторий **больше не поддерживается**. Новые фичи и фиксы **не принимаются**,
-> Issues/PR могут быть отключены, релизы **не планируются**.
->
->
-> **Что делать пользователям:**
-> - ✅ Переходите на аналоги (если есть)
-> - ✅ Зафиксируйте версию: `maxapi-python==X.Y.Z`
-> - ⚠️ Используйте на свой риск: внутренний API Max может измениться без предупреждения
-
 <p align="center">
     <img src="https://img.shields.io/badge/python-3.10+-3776AB.svg" alt="Python 3.11+">
     <img src="https://img.shields.io/badge/License-MIT-2f9872.svg" alt="License: MIT">
