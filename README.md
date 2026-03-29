@@ -159,18 +159,9 @@ if __name__ == "__main__":
 
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для получения информации.
 
-## Новости
-
-[Telegram](https://t.me/pymax_news)
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ink-developer/PyMax&type=date&legend=top-left)](https://www.star-history.com/#ink-developer/PyMax&type=date&legend=top-left)
-
-## Авторы
-- **[ink](https://github.com/ink-developer)** — Главный разработчик, исследование API и его документация
-- **[noxzion](https://github.com/noxzion)** — Оригинальный автор проекта
-
 
 ## Контрибьюторы
 
